@@ -1,0 +1,6 @@
+@JackTree_HostAddress = http://localhost:5271
+
+GET {{JackTree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

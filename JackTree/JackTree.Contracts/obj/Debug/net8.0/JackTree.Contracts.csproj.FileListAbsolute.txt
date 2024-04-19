@@ -1,0 +1,12 @@
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\bin\Debug\net8.0\JackTree.Contracts.deps.json
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\bin\Debug\net8.0\JackTree.Contracts.dll
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\bin\Debug\net8.0\JackTree.Contracts.pdb
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.AssemblyInfoInputs.cache
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.AssemblyInfo.cs
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.csproj.CoreCompileInputs.cache
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.sourcelink.json
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.dll
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\refint\JackTree.Contracts.dll
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\JackTree.Contracts.pdb
+D:\project_code_fusion\JackTreeBackEnd\JackTree\JackTree.Contracts\obj\Debug\net8.0\ref\JackTree.Contracts.dll
